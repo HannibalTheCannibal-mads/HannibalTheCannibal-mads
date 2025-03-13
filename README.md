@@ -1,5 +1,5 @@
 # 👋 Hallo, I'm Hannibal
-I'm into Deep Learning, Hardware, Linux, Computer Vision, Modern Cryptography, and PQC.
+I'm into Deep Learning, Hardware, Linux, Computer Vision, Cryptography, and PQC.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
