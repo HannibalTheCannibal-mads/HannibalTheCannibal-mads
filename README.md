@@ -1,4 +1,4 @@
-# 👋 Hallo, I'm Hannibal
+# 👋 Hallo
 I'm into Deep Learning, Hardware, Linux, Computer Vision, Cryptography, and PQC.
 
 ## 💻 Tech Stack:
